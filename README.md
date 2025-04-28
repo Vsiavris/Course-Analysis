@@ -1,4 +1,4 @@
-# Coursera Course Analysis
+# Course Analysis
 
 This project presents a comprehensive analysis of Coursera course data, exploring course characteristics, popularity metrics, and organizational excellence. Through statistical analysis and data visualization, we uncover patterns and insights to help learners find the right courses and understand what makes courses successful on the Coursera platform.
 
